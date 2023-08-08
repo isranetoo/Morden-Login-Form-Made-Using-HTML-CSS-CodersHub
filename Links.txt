@@ -1,0 +1,16 @@
+//FONTS//
+
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,400;0,500;0,900;1,300;1,900&family=Roboto+Mono:ital,wght@0,300;0,600;1,600&display=swap');
+
+//IMG//
+
+LINK
+
+https://www.wallpaperflare.com/deer-on-mountain-wallpaper-silhouette-of-trees-under-white-sky-illustration-wallpaper-plk
+url
+
+https://r4.wallpaperflare.com/wallpaper/912/256/892/landscape-forest-deer-artwork-wallpaper-19d0082d01fa2debd647a8df70a166fd.jpg
+//SCRIPTS
+
+<script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
